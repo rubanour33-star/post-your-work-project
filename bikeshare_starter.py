@@ -105,7 +105,7 @@ def user_stats(df):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
-    # Display counts of user types
+    # Display the number of users for each user type
 
 
     # Display counts of gender
