@@ -44,11 +44,9 @@ Run this script:
 
 You will be asked to choose:
 
-- City
-
-- Month
-
-- Day
+- The city to analyze (Chicago, New York City, or Washington)
+- The month (or "all" to include all months)
+- The day of week (or "all" to include all days)
 
 Then the program will display:
 
